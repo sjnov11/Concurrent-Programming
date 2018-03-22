@@ -1,0 +1,11 @@
+*.o
+perf.*
+*.swp
+*.out
+/project1/project1/run
+/project1/marker/marker
+/lab04/prime_cond
+/lab04/workload.txt
+/project1/run
+/project4_1/
+test
